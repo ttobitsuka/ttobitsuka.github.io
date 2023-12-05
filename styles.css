@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+/* 画像のスタイル */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* 画像を円形にするためのスタイル */
+    margin-top: 20px; /* 上部のマージンを追加 */
+}
+
+/* 名前のスタイル */
+h2 {
+    color: #333;
+    margin-top: 10px; /* 上部のマージンを追加 */
+}
+
+/* 説明文のスタイル */
+p {
+    color: #666;
+    margin-bottom: 20px; /* 下部のマージンを追加 */
+}
